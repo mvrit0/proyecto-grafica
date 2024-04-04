@@ -1,1 +1,3 @@
-# proyecto-grafica
+# Proyecto Narración Gráfica
+
+## Felipe Mateluna y Mario Ortiz
